@@ -1,3 +1,3 @@
 # PiPicker
 
-Pipline Picker
+Piplines Picker
